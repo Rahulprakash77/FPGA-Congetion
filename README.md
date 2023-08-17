@@ -204,9 +204,9 @@ Lower development cost compared to designing custom ASICs.
 Flexibility for implementing custom hardware solutions without manufacturing new chips.
 
 
-# DAY-3 ( handson with python coding language )
+# DAY-3 ( Hands-on with python coding language )
 
-# DAY-4 ( raed the attached refrence papers )
+# DAY-4 ( Read the attached refrence papers )
 labled data link are provided inside reference
 https://www.mdpi.com/2079-9292/10/16/1995
 
