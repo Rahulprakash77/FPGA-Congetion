@@ -207,8 +207,12 @@ Flexibility for implementing custom hardware solutions without manufacturing new
 # DAY-3 ( handson with python coding language )
 
 # DAY-4 ( raed the attached refrence papers )
+labled data link are provided inside reference
+https://www.mdpi.com/2079-9292/10/16/1995
 
-# DAY-5 ( write code for regression and play with the data at last check your result 
+# DAY-5 ( write code for regression and play with the data at last check your result )
+
+in this project i have attached everythings
 
 
 
