@@ -111,14 +111,23 @@ Ensemble learning involves combining the predictions of multiple individual mode
 create a more robust and accurate final prediction. Random Forest Regression takes
 advantage of ensemble learning by combining multiple decision trees to make better
 predictions.
+
+![image](https://github.com/user-attachments/assets/0482b611-0d66-417d-8674-b26cb2f8954f)
+
 ### Decision Trees:
 A decision tree is a flowchart-like structure where each internal node represents a decision
 or a test on a feature, each branch represents an outcome of the decision, and each leaf
 node represents the predicted output. Decision trees split the data based on features and
 create a hierarchy of decisions to predict the target variable.
+
+![image](https://github.com/user-attachments/assets/bdf07b1d-7ba4-4893-8ea8-cd749b38d039)
+
 ### Random Forest Regression Process:
 Data Selection: The training data is randomly sampled with replacement to create multiple
 subsets, known as bootstrap samples.
+
+![image](https://github.com/user-attachments/assets/c958e36a-5e98-4197-b2f9-b05c4cc431b3)
+
 
 Building Decision Trees: For each bootstrap sample, a decision tree is constructed using a
 random subset of features. This randomness helps in reducing the correlation among the
