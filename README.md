@@ -60,24 +60,24 @@ learn from data and make predictions or decisions without being explicitly progr
 One fundamental aspect of machine learning is regression, a technique used for predicting
 continuous numerical values based on input data. Let's delve into the basics of machine
 learning theory, highlighting regression and prediction.
-1. Supervised Learning:
+**1. Supervised Learning:**
 Supervised learning is a common approach in machine learning where the algorithm learns
 from labeled training data. The data consists of input-output pairs, where the inputs are the
 features, and the outputs are the corresponding target values. Regression falls under the
 category of supervised learning.
-2. Regression:
+**2. Regression:**
 Regression is a type of supervised learning that deals with predicting continuous numerical
 values. It's used when the output variable is quantitative, meaning it has a range of possible
 values. The goal of regression is to find a mathematical relationship between the input
 features and the output variable so that the algorithm can make accurate predictions on
 new, unseen data.
-3. Features and Target Variable:
+**3. Features and Target Variable:**
 In regression, the input data consists of features, also called independent variables or
 predictors. These features influence the output variable, which is also known as the target
 variable or dependent variable. The goal is to find the underlying pattern or relationship that
 links the features to the target variable
 
-4. Types of Regression:
+**4. Types of Regression:**
 There are various types of regression techniques, including:
 Linear Regression: This is the simplest form of regression, where the goal is to find a linear
 relationship between the features and the target variable.
@@ -89,7 +89,7 @@ Ridge and Lasso Regression: These are techniques that introduce regularization t
 prevent overfitting and improve generalization.
 Support Vector Regression (SVR): A regression technique that uses the concept of
 support vector machines to find a hyperplane that best fits the data.
-5. Training and Prediction:
+**5. Training and Prediction:**
 The process of building a regression model involves two main steps:
 Training: During training, the algorithm learns the relationship between the features and
 the target variable from the labeled training data. It adjusts its internal parameters to
@@ -149,7 +149,7 @@ the consensus of multiple trees rather than relying heavily on any single decisi
 Easy to Use: It requires minimal hyperparameter tuning compared to other complex
 algorithms and can often provide good results with default settings.
 
-# DAY-2 ( learning about FPGA )
+## DAY-2 ( learning about FPGA )
 ## Basics of FPGA (Field-Programmable Gate Array) in Brief
 FPGA, which stands for Field-Programmable Gate Array, is a type of integrated circuit (IC)
 that offers immense flexibility and configurability for digital logic design and
@@ -204,15 +204,14 @@ Lower development cost compared to designing custom ASICs.
 Flexibility for implementing custom hardware solutions without manufacturing new chips.
 
 
-# DAY-3 ( Hands-on with python coding language )
+## DAY-3 ( Hands-on with python coding language )
 
-# DAY-4 ( Read the attached refrence papers )
+## DAY-4 ( Read the attached refrence papers )
 labled data link are provided inside reference
 https://www.mdpi.com/2079-9292/10/16/1995
 
-# DAY-5 ( write code for regression and play with the data at last check your result )
+## DAY-5 ( write code for regression and play with the data at last check your result )
 
-in this project i have attached everythings
 
 
 
